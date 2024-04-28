@@ -1,0 +1,14 @@
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_06\bin\Debug\net8.0\Ejercicio_06.exe
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_06\bin\Debug\net8.0\Ejercicio_06.deps.json
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_06\bin\Debug\net8.0\Ejercicio_06.runtimeconfig.json
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_06\bin\Debug\net8.0\Ejercicio_06.dll
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_06\bin\Debug\net8.0\Ejercicio_06.pdb
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_06\obj\Debug\net8.0\Ejercicio_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_06\obj\Debug\net8.0\Ejercicio_06.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_06\obj\Debug\net8.0\Ejercicio_06.AssemblyInfo.cs
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_06\obj\Debug\net8.0\Ejercicio_06.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_06\obj\Debug\net8.0\Ejercicio_06.dll
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_06\obj\Debug\net8.0\refint\Ejercicio_06.dll
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_06\obj\Debug\net8.0\Ejercicio_06.pdb
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_06\obj\Debug\net8.0\Ejercicio_06.genruntimeconfig.cache
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_06\obj\Debug\net8.0\ref\Ejercicio_06.dll

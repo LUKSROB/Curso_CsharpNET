@@ -1,0 +1,14 @@
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_10\bin\Debug\net8.0\Ejercicio_10.exe
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_10\bin\Debug\net8.0\Ejercicio_10.deps.json
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_10\bin\Debug\net8.0\Ejercicio_10.runtimeconfig.json
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_10\bin\Debug\net8.0\Ejercicio_10.dll
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_10\bin\Debug\net8.0\Ejercicio_10.pdb
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_10\obj\Debug\net8.0\Ejercicio_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_10\obj\Debug\net8.0\Ejercicio_10.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_10\obj\Debug\net8.0\Ejercicio_10.AssemblyInfo.cs
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_10\obj\Debug\net8.0\Ejercicio_10.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_10\obj\Debug\net8.0\Ejercicio_10.dll
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_10\obj\Debug\net8.0\refint\Ejercicio_10.dll
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_10\obj\Debug\net8.0\Ejercicio_10.pdb
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_10\obj\Debug\net8.0\Ejercicio_10.genruntimeconfig.cache
+C:\Program Files (x86)\Microsoft VS Code\Codes\Curso_C#NET\Unidad_1\Ejercicio_10\obj\Debug\net8.0\ref\Ejercicio_10.dll
