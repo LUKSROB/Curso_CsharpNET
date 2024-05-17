@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Program Files (x86)\\Microsoft VS Code\\Codes\\Curso_C#NET\\TP_01\\Ejercicio_02\\Ejercicio_02.csproj",
+      "projectUniqueName": "C:\\Users\\Luksrob.DESKTOP-GGTG9J5\\Documents\\Codes\\Curso_C#NET\\TP_01\\Ejercicio_02\\Ejercicio_02.csproj",
       "projectName": "Ejercicio_02",
-      "projectPath": "C:\\Program Files (x86)\\Microsoft VS Code\\Codes\\Curso_C#NET\\TP_01\\Ejercicio_02\\Ejercicio_02.csproj",
+      "projectPath": "C:\\Users\\Luksrob.DESKTOP-GGTG9J5\\Documents\\Codes\\Curso_C#NET\\TP_01\\Ejercicio_02\\Ejercicio_02.csproj",
       "packagesPath": "C:\\Users\\Luksrob.DESKTOP-GGTG9J5\\.nuget\\packages\\",
-      "outputPath": "C:\\Program Files (x86)\\Microsoft VS Code\\Codes\\Curso_C#NET\\TP_01\\Ejercicio_02\\obj\\",
+      "outputPath": "C:\\Users\\Luksrob.DESKTOP-GGTG9J5\\Documents\\Codes\\Curso_C#NET\\TP_01\\Ejercicio_02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
