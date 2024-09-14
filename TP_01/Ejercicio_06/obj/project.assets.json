@@ -8,34 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Luksrob.DESKTOP-GGTG9J5\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Luksrob\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luksrob.DESKTOP-GGTG9J5\\Documents\\Codes\\Curso_C#NET\\TP_01\\Ejercicio_06\\Ejercicio_06.csproj",
+      "projectUniqueName": "C:\\Users\\Luksrob\\Documents\\Codes\\Curso_CsharpNET\\TP_01\\Ejercicio_06\\Ejercicio_06.csproj",
       "projectName": "Ejercicio_06",
-      "projectPath": "C:\\Users\\Luksrob.DESKTOP-GGTG9J5\\Documents\\Codes\\Curso_C#NET\\TP_01\\Ejercicio_06\\Ejercicio_06.csproj",
-      "packagesPath": "C:\\Users\\Luksrob.DESKTOP-GGTG9J5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luksrob.DESKTOP-GGTG9J5\\Documents\\Codes\\Curso_C#NET\\TP_01\\Ejercicio_06\\obj\\",
+      "projectPath": "C:\\Users\\Luksrob\\Documents\\Codes\\Curso_CsharpNET\\TP_01\\Ejercicio_06\\Ejercicio_06.csproj",
+      "packagesPath": "C:\\Users\\Luksrob\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Luksrob\\Documents\\Codes\\Curso_CsharpNET\\TP_01\\Ejercicio_06\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Luksrob.DESKTOP-GGTG9J5\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Luksrob\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -74,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
