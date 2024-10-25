@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luksrob\\Documents\\Codes\\Curso_CsharpNET\\TP_02\\Ejercicio_01\\Ejercicio_01.csproj",
+      "projectUniqueName": "D:\\Codes\\Curso_CsharpNET\\TP_02\\Ejercicio_01\\Ejercicio_01.csproj",
       "projectName": "Ejercicio_01",
-      "projectPath": "C:\\Users\\Luksrob\\Documents\\Codes\\Curso_CsharpNET\\TP_02\\Ejercicio_01\\Ejercicio_01.csproj",
+      "projectPath": "D:\\Codes\\Curso_CsharpNET\\TP_02\\Ejercicio_01\\Ejercicio_01.csproj",
       "packagesPath": "C:\\Users\\Luksrob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luksrob\\Documents\\Codes\\Curso_CsharpNET\\TP_02\\Ejercicio_01\\obj\\",
+      "outputPath": "D:\\Codes\\Curso_CsharpNET\\TP_02\\Ejercicio_01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luksrob\\AppData\\Roaming\\NuGet\\NuGet.Config"

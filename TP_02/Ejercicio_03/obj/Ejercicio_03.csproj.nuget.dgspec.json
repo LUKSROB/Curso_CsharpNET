@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luksrob\\Documents\\Codes\\Curso_CsharpNET\\TP_02\\Ejercicio_03\\Ejercicio_03.csproj": {}
+    "D:\\Codes\\Curso_CsharpNET\\TP_02\\Ejercicio_03\\Ejercicio_03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luksrob\\Documents\\Codes\\Curso_CsharpNET\\TP_02\\Ejercicio_03\\Ejercicio_03.csproj": {
+    "D:\\Codes\\Curso_CsharpNET\\TP_02\\Ejercicio_03\\Ejercicio_03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luksrob\\Documents\\Codes\\Curso_CsharpNET\\TP_02\\Ejercicio_03\\Ejercicio_03.csproj",
+        "projectUniqueName": "D:\\Codes\\Curso_CsharpNET\\TP_02\\Ejercicio_03\\Ejercicio_03.csproj",
         "projectName": "Ejercicio_03",
-        "projectPath": "C:\\Users\\Luksrob\\Documents\\Codes\\Curso_CsharpNET\\TP_02\\Ejercicio_03\\Ejercicio_03.csproj",
+        "projectPath": "D:\\Codes\\Curso_CsharpNET\\TP_02\\Ejercicio_03\\Ejercicio_03.csproj",
         "packagesPath": "C:\\Users\\Luksrob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luksrob\\Documents\\Codes\\Curso_CsharpNET\\TP_02\\Ejercicio_03\\obj\\",
+        "outputPath": "D:\\Codes\\Curso_CsharpNET\\TP_02\\Ejercicio_03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luksrob\\AppData\\Roaming\\NuGet\\NuGet.Config"
